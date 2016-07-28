@@ -1,0 +1,78 @@
+.jumbotron 
+{
+  text-align:center;
+  background-color:#add8e6; 
+  height:110px;
+  font-family:oldtown; 
+}
+
+
+
+
+
+h2 {
+    text-align:center;
+    font-family:times,arial, monospace;
+}
+
+body
+{
+    background-color:#add8e6;
+}
+p {
+    text-align:center;
+    font-family:times,arial,monospace;
+    font-size:20px;
+}
+
+.dessert:hover
+{
+  border:20px solid #2670cf;
+ }
+
+h3
+{
+    text-align:center;
+}
+
+.container:hover:active
+{
+   border-color:red;
+    
+}
+
+.food
+{
+   display:inline;
+ }
+
+#Comment
+{
+    height:3000px;
+}
+
+#Statement
+{
+    float:left;
+}
+
+
+
+.box1
+
+{
+  height:300px;
+  width:350px;
+  position:relative;
+  float:right;
+  margin-right:500px;
+  text-align:left;
+}
+
+
+.box2
+{
+    float:left;
+    position:relative;
+    top:5px;
+}
